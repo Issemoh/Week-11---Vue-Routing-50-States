@@ -1,5 +1,5 @@
 <template>
-    <div class="summary">
+    <div class="Summary">
 
         <h3>You have visited {{ total }} {{ statesPlural }} </h3>
 
